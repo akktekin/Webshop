@@ -1,0 +1,19 @@
+body {
+    margin-left: 20px;
+}
+
+.mobile_phones {
+    text-align: center;
+    color: red;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h1  {
+    border: 20px solid black;
+    width: fit-content;
+    color: brown;
+    background-color: burlywood;
+    text-shadow: whitesmoke 2px 2px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    display: ruby;
+}
